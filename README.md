@@ -1,1 +1,1 @@
-# Algorithms solved using Java
+# Algorithms using Java
